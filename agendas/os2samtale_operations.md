@@ -1,5 +1,3 @@
-# 
-
 # tl:dr
 
 1. **SLA**: Tilgængelighed og forventningsafstemning.
@@ -8,7 +6,6 @@
 4. **Production Readiness**: Opfyldelse af 12/15 factor krav.
 5. **OS2 bidrag**: Arkitektur sparring, GitHub opsætning, og organisatorisk implementering.
 6. **Fravalg**: Kagen skæres
-
 
 
 # Agenda-forslag
@@ -101,9 +98,8 @@ Hjælp til 12/15 factor opfyldelse på stack herunder
 
 [Vores nuværende issue-tracker på OS2ID/Authentik projektet](https://github.com/OS2sandbox/sandbox-myndighedsidentitet-issues)
 
-[Authentik Security Inc · GitHub](https://github.com/goauthentik/) | [Authentik homepage](https://goauthentik.io/)
+[Authentik Security Inc · GitHub](https://github.com/goauthentik/)
+[Authentik homepage](https://goauthentik.io/)
 
-OS2s bidrag til Authentik sammen med Semaphor: https://github.com/goauthentik/authentik/pull/10099
-Issue pre-PR:
-
-[Support for EncryptedAssertion · Issue #9172 · goauthentik/authentik · GitHub](https://github.com/goauthentik/authentik/issues/9172)
+[OS2s bidrag til Authentik sammen med Semaphor](https://github.com/goauthentik/authentik/pull/10099)
+[Issue pre-PR - Support for EncryptedAssertion · Issue #9172 · goauthentik/authentik · GitHub](https://github.com/goauthentik/authentik/issues/9172)
